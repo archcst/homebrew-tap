@@ -8,7 +8,7 @@ cask "popeste" do
   homepage "https://github.com/archcst/popeste"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Popaste.app"
 
