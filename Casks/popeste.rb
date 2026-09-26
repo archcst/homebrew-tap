@@ -1,8 +1,8 @@
 cask "popeste" do
-  version "0.1.0"
-  sha256 "1b68f44c67d786313dad1591316ce9f045c055d3d5c3ebfbe243a34be328f8c1"
+  version "0.2.0"
+  sha256 "4a8c3fe8a61b7ebda87b4d6b50a58fb69a9f88241ceb8b53a0d4081298fe964e"
 
-  url "https://github.com/archcst/popeste/releases/download/0.1.0/Popeste-#{version}-arm64.zip"
+  url "https://github.com/archcst/popeste/releases/download/#{version}/Popeste-#{version}-arm64.zip"
   name "Popeste"
   desc "Menu bar utility for reusable text snippets"
   homepage "https://github.com/archcst/popeste"
