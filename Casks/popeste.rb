@@ -1,6 +1,6 @@
 cask "popeste" do
-  version "0.2.0"
-  sha256 "4a8c3fe8a61b7ebda87b4d6b50a58fb69a9f88241ceb8b53a0d4081298fe964e"
+  version "0.2.1"
+  sha256 "44e4efb7edab7ad735e5ac1003718fadee12cb75470775d8b42e6136ebacc1ca"
 
   url "https://github.com/archcst/popeste/releases/download/#{version}/Popeste-#{version}-arm64.zip"
   name "Popeste"
