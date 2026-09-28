@@ -1,6 +1,8 @@
+# frozen_string_literal: true
+
 cask "popeste" do
-  version "0.2.1"
-  sha256 "44e4efb7edab7ad735e5ac1003718fadee12cb75470775d8b42e6136ebacc1ca"
+  version "0.3.0"
+  sha256 "6c1e4cd6686773d051f166a61017162b1a2f9ca9f267ec306406f8de9d46f2ee"
 
   url "https://github.com/archcst/popeste/releases/download/#{version}/Popeste-#{version}-arm64.zip"
   name "Popeste"
